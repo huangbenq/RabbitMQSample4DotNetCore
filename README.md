@@ -1,11 +1,11 @@
 # RabbitMQSample4DotNetCore
 
 #### 项目介绍
-基于.net core的消息队列实现，封装安装RabbitMQ.client方便使用，实现了竞争者消费模式和发布订阅模式的测试用例，具体使用可参考
-RabbitMQSample4DotNetCore：消息推送
-RabbitMQWorkQueuesSample：竞争者消费模式
-RabbitMQPublishSubscribeSample：发布订阅模式
-
+基于.net core的消息队列实现，封装安装RabbitMQ.client方便使用，实现了竞争者消费模式和发布订阅模式的测试用例，具体使用可参考  
+RabbitMQSample4DotNetCore：消息推送  
+RabbitMQWorkQueuesSample：竞争者消费模式  
+RabbitMQPublishSubscribeSample：发布订阅模式  
+  
 #### 使用说明
 
 1. 安装RabbitMQ
